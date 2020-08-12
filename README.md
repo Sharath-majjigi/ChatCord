@@ -1,2 +1,6 @@
 # ChatCord
-Chatcord is arealtime chat app with websockets using Node.js,Express,and socket.io with vanilla js on the frontend with a custom UI
+Chatcord is a realtime chat app with websockets using :
+--> Node.js
+--> Express.js
+--> Socket.io
+-->Vanilla js on the frontend with a custom UI.
